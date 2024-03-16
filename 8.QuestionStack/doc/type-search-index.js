@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Controller","l":"AddQuestion"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Model","l":"Question"}];updateSearchResults();
